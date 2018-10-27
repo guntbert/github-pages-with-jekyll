@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Guntbert's page on learning GH-pages
 
-I'm glad you are here. I plan to talk about ...
+## steps taken
+
+- enable GH pages
+- modify index.md
